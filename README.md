@@ -83,7 +83,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/BCS950/BCS950/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BCS950/BCS950/output/snake.svg" alt="Snake animation" 
+  />
 
 ###
 ###
